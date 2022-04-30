@@ -1,0 +1,19 @@
+/* p.error{
+    color: red;
+}
+p.success{
+    color: green;
+}
+p.success.feedback{
+    color: blue;
+    border: 2px solid green;
+}
+div#content{
+    background-color: #ebebeb; */
+/* } */
+/* div .error{
+    color: red;
+} */
+a[href="https://www.google.com"]{
+    background-color: black;
+}
